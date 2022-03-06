@@ -1,0 +1,6 @@
+{
+    "code-runner.executorMap": {
+        "ruby": "cls && ruby $fullFileName"
+    },
+    "code-runner.runInTerminal": true,
+}
